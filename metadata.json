@@ -1,0 +1,5 @@
+{
+  "name": "Decision Deft: Your AI Decision Helper",
+  "description": "A conversational chatbot powered by Gemini to help you navigate daily dilemmas by asking clarifying questions, generating pros and cons, and suggesting personalized options.",
+  "requestFramePermissions": []
+}
